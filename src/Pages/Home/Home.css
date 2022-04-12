@@ -1,0 +1,9 @@
+.home-container h1{
+    text-align: center;
+    color: blueviolet;
+}
+.hotels-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+   
+}

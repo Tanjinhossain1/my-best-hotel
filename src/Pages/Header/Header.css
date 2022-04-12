@@ -1,0 +1,18 @@
+.link-container{
+    text-align: center;
+}
+.link-container a{
+margin-left: 50px;
+text-decoration: none;
+color: black;
+font-size: 30px;
+border-bottom: 4px solid black;
+}
+.click-color{
+    color: orange;
+    border-bottom: 4px solid orange;
+}
+.link-container a:hover{
+    color: orangered;
+    border-bottom: 4px solid orangered;
+}

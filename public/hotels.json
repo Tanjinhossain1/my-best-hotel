@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Prince Hotel",
+        "Price": 10000,
+        "img": "https://www.princehotels.com/wp-content/uploads/2019/04/aboutslider2-1.jpg"
+    },
+
+    {
+        "id": 2,
+        "Price": 10000,
+        "name": "Tokyo nota Hotel",
+        "img": "https://www.peninsula.com/en/-/media/images/tokyo/new/rooms/grand-deluxe-room/ptk-grand-deluxe-room-twin-1074.jpg?mw=905&hash=34C592EA4E4DC1137B47830676F63608DED086FE"
+    },
+    {
+        "id": 3,
+        "Price": 10000,
+        "name": "bangladesh hotel",
+        "img": "https://www.bestwestern.com/content/dam/best-western/brand/glo.jpg"
+    },
+    {
+        "id": 4,
+        "Price": 10000,
+        "name": "kon jaigar hotel",
+        "img": "https://www.peninsula.com/en/-/media/images/tokyo/new/rooms/grand-deluxe-room/ptk-grand-deluxe-room-twin-1074.jpg?mw=905&hash=34C592EA4E4DC1137B47830676F63608DED086FE"
+    },
+    {
+        "id": 5,
+        "Price": 10000,
+        "name": "ki jani hotel",
+        "img": "https://www.peninsula.com/en/-/media/images/tokyo/new/rooms/grand-deluxe-room/ptk-grand-deluxe-room-twin-1074.jpg?mw=905&hash=34C592EA4E4DC1137B47830676F63608DED086FE"
+    }
+]

@@ -1,0 +1,19 @@
+.hotel-container{
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+.hotel-container img{
+    width: 100%;
+}
+.hotel-container button{
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+    padding: 20px 40px 20px 40px;
+    border-radius: 10px;
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+}
