@@ -5,13 +5,17 @@ const Register = () => {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
     const [confirmPassword, setConfirmPassword] = useState('');
+   
+    const handleSUbmit = (e) =>{
+        e.preventDefault();
 
+    }
     return (
         <div>
 
             <div>
                 <div>
-                    <form className='form-container'>
+                    <form onSubmit={handleSUbmit} className='form-container'>
                         <div>
                             <div className='input-group'>
                                 <label htmlFor="email">Email</label>
